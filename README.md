@@ -27,7 +27,7 @@ The entire warehouse simulation — including AGVs, racks, docking stations, and
 ## 📂 Project Structure
 ```
 ├── Simulation.ttt       
-├── scripts/
+├── Scripts/
 │   ├── TaskManager.lua        
 │   ├── AGV_1.lua
 │   ├── AGV_2.lua
